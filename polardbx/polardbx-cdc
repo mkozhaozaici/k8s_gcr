@@ -1,0 +1,1 @@
+FROM polardbx/polardbx-cdc:v2.4.0_5.4.19
