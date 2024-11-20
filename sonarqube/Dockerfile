@@ -1,1 +1,1 @@
-FROM  sonarqube/sonarqube-dce:10.7.0
+FROM  sonarqube:10.7.0-community
